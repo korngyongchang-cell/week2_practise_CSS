@@ -1,0 +1,15 @@
+/* TODO */
+button{
+    color:white;
+    text-transform: uppercase;
+    background-color: pink;
+    border-radius: 30px;
+    margin:auto 0;
+    padding:15px 25px;
+    border:5px solid rgb(232, 128, 145);
+}
+
+button:hover{
+    border-color: rgb(255, 5, 47);
+    background-color:rgb(198, 73, 94);
+}

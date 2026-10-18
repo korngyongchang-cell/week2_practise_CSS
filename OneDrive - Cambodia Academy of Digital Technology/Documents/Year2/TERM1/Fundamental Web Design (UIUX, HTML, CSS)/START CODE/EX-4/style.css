@@ -1,0 +1,52 @@
+.profile {
+    border: 5px solid black;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin:auto;
+}
+
+.profile img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10%;
+}
+
+body{
+    border:5px solid black;
+    margin:90px;
+    text-align: center;
+}
+
+li{
+    display:inline;
+    margin:53px;
+    font-size: large;
+}
+
+button{
+    width:100px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: red;
+}
+
+.poem {
+    padding: 10px 5px;
+    font-size: 15px;
+    line-height: 1;
+}
+
+.poem p {
+    margin: 8px 0 24px;
+}
+
+
+
+
+
